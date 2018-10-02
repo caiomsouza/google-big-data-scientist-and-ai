@@ -18,3 +18,11 @@ sql_string <- "SELECT * FROM [emerald-ether-217704:londonhouse.inner_outer_londo
 query_results <- query_exec(sql_string, project = project_id)
 head(query_results)
 ```
+
+# Google Big Query Demo with R Studio
+
+Google Big Query Web UI
+![Google Big Query Web UI](https://github.com/caiomsouza/google-big-data-scientist-and-ai/blob/master/bigquery/images/GoogleBigQueryWebUI.PNG)
+
+R Studio + Google Big Query
+![R Studio + Google Big Query](https://github.com/caiomsouza/google-big-data-scientist-and-ai/blob/master/bigquery/images/GoogleBigQueryRExample.PNG)
