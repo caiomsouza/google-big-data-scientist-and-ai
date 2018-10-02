@@ -4,6 +4,9 @@ Big Query R Package <BR>
 https://github.com/r-dbi/bigrquery <BR>
 https://db.rstudio.com/databases/big-query/ <BR>
 
+Google Cloud Platform for Data Scientists: Using R with Google BigQuery<BR>
+https://cloud.google.com/blog/products/gcp/google-cloud-platform-for-data-scientists-using-r-with-google-bigquery <BR>
+
 Install Google Big Query R Package
 ```
 #install.packages("bigrquery")
