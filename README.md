@@ -1,6 +1,9 @@
 # google-big-data-scientist-and-ai
 Google Big Data Scientist and Artificial Intelligence
 
+# Map Microsoft Azure services to Google Cloud Platform products
+https://cloud.google.com/free/docs/map-azure-google-cloud-platform
+
 # Google AI
 https://ai.google/
 
