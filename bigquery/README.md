@@ -1,7 +1,8 @@
 # Google Big Query
 
-Big Query R Package
-https://github.com/r-dbi/bigrquery
+Big Query R Package <BR>
+https://github.com/r-dbi/bigrquery <BR>
+https://db.rstudio.com/databases/big-query/ <BR>
 
 Install Google Big Query R Package
 ```
