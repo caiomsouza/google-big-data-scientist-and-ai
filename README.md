@@ -12,8 +12,7 @@ https://cloud.google.com/products/big-data/<BR>
 GCP - Google Cloud<BR>
 https://github.com/googleapis/google-cloud-python<BR>
 
-Google Papers<BR><BR>
-
+<b>Google Papers</b><BR>
 Bigtable: A Distributed Storage System for Structured Data <BR>
 https://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf <BR>
 
