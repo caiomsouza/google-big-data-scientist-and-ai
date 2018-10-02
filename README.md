@@ -1,19 +1,18 @@
-# google-big-data-scientist-and-ai
-Google Big Data Scientist and Artificial Intelligence
+# Google Big Data Scientist and Artificial Intelligence
 
-# Map Microsoft Azure services to Google Cloud Platform products
-https://cloud.google.com/free/docs/map-azure-google-cloud-platform
+Map Microsoft Azure services to Google Cloud Platform products <BR>
+https://cloud.google.com/free/docs/map-azure-google-cloud-platform <BR>
 
-# Google AI
-https://ai.google/
+Google AI<BR>
+https://ai.google/<BR>
 
-# Google Big Data
-https://cloud.google.com/products/big-data/
+Google Big Data<BR>
+https://cloud.google.com/products/big-data/<BR>
 
-# GCP - Google Cloud
-https://github.com/googleapis/google-cloud-python
+GCP - Google Cloud<BR>
+https://github.com/googleapis/google-cloud-python<BR>
 
-# Google Papers
+Google Papers<BR><BR>
 
 Bigtable: A Distributed Storage System for Structured Data <BR>
 https://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf <BR>
@@ -24,5 +23,5 @@ https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archiv
 MapReduce: Simplified Data Processing on Large Clusters <BR>
 https://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf <BR>
 
-# Jeffrey Dean
-https://ai.google/research/people/jeff
+Jeffrey Dean <BR>
+https://ai.google/research/people/jeff<BR>
