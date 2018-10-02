@@ -3,8 +3,8 @@
 Map Microsoft Azure services to Google Cloud Platform products <BR>
 https://cloud.google.com/free/docs/map-azure-google-cloud-platform <BR>
 
-Azure / GCP
-![Azure / GCP](https://github.com/caiomsouza/google-big-data-scientist-and-ai/blob/master/AzureGCP.PNG)
+Azure / GCP <BR>
+![Azure / GCP](https://github.com/caiomsouza/google-big-data-scientist-and-ai/blob/master/AzureGCP.PNG) <BR>
 
 Google AI<BR>
 https://ai.google/<BR>
