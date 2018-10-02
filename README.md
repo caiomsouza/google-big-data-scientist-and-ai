@@ -20,3 +20,6 @@ https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archiv
 
 MapReduce: Simplified Data Processing on Large Clusters <BR>
 https://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf <BR>
+
+# Jeffrey Dean
+https://ai.google/research/people/jeff
